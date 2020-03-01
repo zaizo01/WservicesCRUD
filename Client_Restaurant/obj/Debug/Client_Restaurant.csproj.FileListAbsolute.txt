@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\bin\Debug\Client_Restaurant.exe.config
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\bin\Debug\Client_Restaurant.exe
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\bin\Debug\Client_Restaurant.pdb
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\obj\Debug\Client_Restaurant.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\obj\Debug\Client_Restaurant.Form1.resources
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\obj\Debug\Client_Restaurant.Properties.Resources.resources
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\obj\Debug\Client_Restaurant.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\obj\Debug\Client_Restaurant.exe
+C:\Users\Admin\Desktop\CRUDwebservices\Client_Restaurant\obj\Debug\Client_Restaurant.pdb
